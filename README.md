@@ -28,6 +28,10 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 ### Walkthrough Video:
+https://drive.google.com/file/d/1CZ_2tFtXAzk4vwxEculKVz9l9wkwssfP/view
+
+### Screenshot
+![CLI screenshot](images/Screenshot%20of%20CLI.png)
 
 
 ## Table of Contents
